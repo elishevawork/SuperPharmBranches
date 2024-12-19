@@ -19,7 +19,7 @@ namespace SuperPharmWebAPI.Controllers
     {
         private readonly ILogger<BranchesController> _logger;
 
-        private const string API_KEY = "AIzaSyB3Dmy3t9ZBW5sj7zFIHqB6tfN6Z-TVoxA";
+        private const string API_KEY = "MY_API_KEY";
         public BranchesController(ILogger<BranchesController> logger)
         {
             _logger = logger;
