@@ -1,0 +1,6 @@
+@SuperPharmWebAPI_HostAddress = http://localhost:5150
+
+GET {{SuperPharmWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
